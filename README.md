@@ -1,0 +1,2 @@
+# Consumindo api - tela de login
+ Criação de uma API para consumir os dados de um banco de dados. Utilizando Node.js e integrá-la com banco de dados de forma prática. Criando do servidor utilizando o Express, definir rotas e conectar ao MongoDB.  Além de implementar um CRUD (Create, Read, Update, Delete), e testar as rotas com ferramentas como Postman.  Também abordaremos boas práticas de estruturação do código, tratamento de erros e segurança.
